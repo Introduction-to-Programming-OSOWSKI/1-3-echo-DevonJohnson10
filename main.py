@@ -1,3 +1,3 @@
 def echo(a):
-    return a * 5
-print(echo("goober"))
+    return a
+print(echo("goober " *5))
